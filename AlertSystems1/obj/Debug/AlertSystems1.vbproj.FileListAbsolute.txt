@@ -1,0 +1,13 @@
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\bin\Debug\AlertSystems1.exe.config
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\bin\Debug\AlertSystems1.exe
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\bin\Debug\AlertSystems1.pdb
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\bin\Debug\AlertSystems1.xml
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.vbprojResolveAssemblyReference.cache
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.Form1.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.Form2.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.Resources.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.UserControl1.resources
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.vbproj.GenerateResource.Cache
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.exe
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.xml
+c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.pdb
