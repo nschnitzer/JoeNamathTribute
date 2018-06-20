@@ -103,6 +103,11 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Resource1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource1.resx</DependentUpon>
+    </Compile>
     <Compile Include="UserControl1.Designer.vb">
       <DependentUpon>UserControl1.vb</DependentUpon>
     </Compile>
@@ -123,6 +128,11 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <EmbeddedResource Include="Resource1.resx">
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resource1.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserControl1.resx">
       <DependentUpon>UserControl1.vb</DependentUpon>
     </EmbeddedResource>
@@ -138,6 +148,48 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe2.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe7.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe8.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe9.jfif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joe14.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

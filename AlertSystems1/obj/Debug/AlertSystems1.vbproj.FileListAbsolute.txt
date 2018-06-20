@@ -11,3 +11,4 @@ c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\Alert
 c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.exe
 c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.xml
 c:\users\120nschnitzer\documents\visual studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.pdb
+C:\Users\120nschnitzer\Documents\Visual Studio 2015\Projects\AlertSystems1\AlertSystems1\obj\Debug\AlertSystems1.Resource1.resources

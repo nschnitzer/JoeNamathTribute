@@ -11,6 +11,7 @@
     End Sub
 
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
+        dtmAlertTime = DateTime.Now
         Me.lblCurTime.Text = DateTime.Now.ToShortTimeString
         If DateTime.Now.ToShortTimeString = strTime Then
             Dim frm As Form2
